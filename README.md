@@ -16,7 +16,9 @@ This is a simple quiz app built using **HTML, CSS, and JavaScript**. The quiz co
 - JavaScript  
 
 ### 📸 Screenshots
-*(You can add screenshots of your app here)*  
+Below is a screenshot of the quiz app:
+
+![Quiz App Screenshot](static/quiz-app-ss.jpg)
 
 ### 📂 Folder Structure
 ```
