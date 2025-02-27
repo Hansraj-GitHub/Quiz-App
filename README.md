@@ -24,13 +24,13 @@ QUIZ-APP/
  │── index.html # Main HTML file 
  │── README.md # Project documentation 
  │ ├── scripts/ # JavaScript files for quiz logic 
-    │ ├── elements-helper.js # Helper functions 
-    │ ├── index.js # Main script 
-    │ ├── quiz.js # Quiz functionality 
-│ ├── static/ # Static assets (images, etc.) 
-    │ ├── quiz-app-ss.jpg # Screenshot of the app 
-│ ├── styles/ # CSS styles 
-    │ ├── styles.css # Main stylesheet
+ │  ├── elements-helper.js # Helper functions 
+ │  ├── index.js # Main script 
+ │  ├── quiz.js # Quiz functionality 
+ │ ├── static/ # Static assets (images, etc.) 
+ │  ├── quiz-app-ss.jpg # Screenshot of the app 
+ │ ├── styles/ # CSS styles 
+ │  ├── styles.css # Main stylesheet
 ```
 ### 💻 How to Run the Project
 1. Clone the repository:
