@@ -27,6 +27,7 @@ Quiz-App/ │── index.html # Main HTML file │── style.css # Styling fo
    ```sh
    git clone git@github.com:Hansraj-GitHub/Quiz-App.git
 2. Navigate the project directiory:
+    ```sh
     cd Quiz-App
 3. Open index.html in a web browser.
 
