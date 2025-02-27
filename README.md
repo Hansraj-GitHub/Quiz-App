@@ -19,6 +19,7 @@ This is a simple quiz app built using **HTML, CSS, and JavaScript**. The quiz co
 *(You can add screenshots of your app here)*  
 
 ### 📂 Folder Structure
+```
 QUIZ-APP/
  │── index.html # Main HTML file 
  │── README.md # Project documentation 
@@ -30,8 +31,7 @@ QUIZ-APP/
     │ ├── quiz-app-ss.jpg # Screenshot of the app 
 │ ├── styles/ # CSS styles 
     │ ├── styles.css # Main stylesheet
-
-
+```
 ### 💻 How to Run the Project
 1. Clone the repository:
    ```sh
